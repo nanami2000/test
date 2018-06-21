@@ -1,4 +1,9 @@
 hello world
+<<<<<<< HEAD
 hello world
 
 Giaaaaaaaaa test
+=======
+git branch feature test
+
+>>>>>>> feature
